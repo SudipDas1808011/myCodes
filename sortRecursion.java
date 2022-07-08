@@ -1,3 +1,7 @@
+/*
+in c++ replace ar.length with the array length
+*/
+
 int[] sortFunc(int[] ar,int minVal,int minIdx,int maxVal){
         if(minVal>maxVal)return ar;
         int tmpVal=0;
